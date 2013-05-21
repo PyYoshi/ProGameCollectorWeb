@@ -1,0 +1,10 @@
+/bin/
+/pkg/
+/out/
+/src/github.com/
+/src/code.google.com/
+*.a
+*.o
+*.so
+.directory
+config.json
